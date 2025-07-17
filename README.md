@@ -28,14 +28,18 @@ Upper corresponds to cells with mark higher than quantile of order 1-q.
 
 ## Files description and image generation
 
-```main_functions.py```: functions for computing both spatial and marked K-functions along with auxiliary functions.
+* ```main_functions.py```: functions for computing both spatial and marked K-functions along with auxiliary functions.
 
 Each folder may contain one of the following files:
-```distribution_groups.py```: File to plot distribution of observed marks (m<sup>i</sup>) colored by groups. Generates Figure 3A.
-```estimation_mK.py```: File to estimate the spatial and marked K-functions. Estimations are saved in saved_estimations using Pickle package.
-```neighbourhoods.py```: File to plot the relative neighbourhoods of all observed cells in a radius r colored by groups. Generates Figures 3C, 6B, S4C.
-```pairplot.py```: File to plot marks with respect to another reference mark in the observations. Regions are colored by groups and points are colored according to the intensity of the marks in the y-axis. Generates Figures S4A, S4B.
-```plot_mk2_tests.py```: File to compute and plot the deviation test from an uncorrelated model using the estimated marked K-functions. Also used to compute the corresponding p-values. Generates Figures 3D, 6C, S4D.
+* ```distribution_groups.py```: File to plot distribution of observed marks (m<sup>i</sup>) colored by groups. Generates Figure 3A.
+
+* ```estimation_mK.py```: File to estimate the spatial and marked K-functions. Estimations are saved in saved_estimations using Pickle package.
+
+* ```neighbourhoods.py```: File to plot the relative neighbourhoods of all observed cells in a radius r colored by groups. Generates Figures 3C, 6B, S4C.
+
+* ```pairplot.py```: File to plot marks with respect to another reference mark in the observations. Regions are colored by groups and points are colored according to the intensity of the marks in the y-axis. Generates Figures S4A, S4B.
+
+* ```plot_mk2_tests.py```: File to compute and plot the deviation test from an uncorrelated model using the estimated marked K-functions. Also used to compute the corresponding p-values. Generates Figures 3D, 6C, S4D.
 
 Each folder contains two folders: ```images```containing the images found in the paper, ```saved_estimations``` for the saved estimated K-functions.
 
