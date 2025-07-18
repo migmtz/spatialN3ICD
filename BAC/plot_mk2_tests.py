@@ -169,6 +169,6 @@ if __name__ == "__main__":
 
     fig.suptitle("BAC | N3ICD Sum | Lower Expression group")
 
-    fig.savefig("images/crispr_test_of_randomness_lower.pdf", format="pdf", bbox_inches="tight")
+    fig.savefig("images/bac_test_of_randomness_lower.pdf", format="pdf", bbox_inches="tight")
 
     plt.show()
