@@ -3,7 +3,7 @@
 Source code for [Jagged-mediated lateral induction patterns Notch3
 signaling within adult neural stem cell populations](link) [[1]](#1).
 
-This Python code implements spatial analysis from point process theory to study the Notch3 signalling between Neural Stem Cells (NSCs) in the telencephalon of adult zebrafish.
+This Python code implements spatial analysis from point process theory to study Notch3 signalling between Neural Stem and Progenitor Cells (NSPCs) in the telencephalon of adult zebrafish.
 Notch3 signaling is related to NSC stemness and quiescence states and the spatial correlation between cell nuclei and Notch3 activity levels are studied.
 
 This study makes use of the marked K- and L-functions as described in [[2]](#2) along with statistical tests to detect deviations from a model of uncorrelatedness between spatial positions and mark values.
@@ -13,10 +13,10 @@ A detailed presentation of the methodology can be found in the Methods section o
 ## Data description
 
 3 datasets are studied, corresponding to each folder.
-Correspondances between folder names and lines in the paper are as follows:
+Correspondances between folder names and lines or experiments in paper [[1]](#1) are as follows:
 The Crispr folder corresponds to TgKI<sup>n3AG/+</sup>.
 The BAC folder corresponds to TgBAC<sup>n3-GFP/+</sup>.
-The Morpholino folder contains both control and treated group for fish injected with vivo morpholino against ligand jagged1b.
+The Morpholino folder contains both control and treated group for fish injected with vivo morpholino against ligand Jagged1b.
 
 ## Group classification
 
