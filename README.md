@@ -46,8 +46,8 @@ Each folder contains two folders: ```images```containing the images found in the
 ## References
 
 <a id="1">[1]</a>
-Ortica, S., Martinez Herrera, M., Degroux, K., Rochette, B., Dray, N., Bally-Cuif, L., Jagged-mediated lateral induction patterns Notch3
-signaling within adult neural stem cell populations (2025). bioRxiv: [⟨blank⟩](link).
+Ortica, S., Martinez Herrera, M., Degroux, L., Rochette, B., Dray, N., Bally-Cuif, L., Jagged-mediated lateral induction patterns Notch3
+signaling within adult neural stem cell populations (2025). bioRxiv: [⟨10.1101/2025.07.29.667421⟩]([link](https://www.biorxiv.org/content/early/2025/08/01/2025.07.29.667421)).
 
 <a id="2">[2]</a>
 Penttinen, A., Stoyan, D., and Henttonen, H.M. (1992). Marked Point Processes in Forest Statistics.
