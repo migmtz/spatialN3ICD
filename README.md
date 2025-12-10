@@ -82,7 +82,7 @@ Once the environment is activated (or if working with the base Python in the com
 pip3 install -r requirements.txt
 ```
 
-Installation took ----- seconds in the aforementioned computer.
+Installation of requirements took 17.35 seconds in the aforementioned computer.
 
 All .py files can be run directly in the terminal or in any Python IDE. 
 
