@@ -101,7 +101,7 @@ The image below shows the expected results from 3 different cells displaying the
 
 All cells are executed in around 3.78 seconds on the aforementioned computer. All cells are commented with expected results and interpretations on simulated data. 
 
-<img src="./demo/output_notebook_demo.jpeg" width="777">
+<img src="./Demo/output_notebook_demo.jpeg" width="777">
 
 ## References
 
